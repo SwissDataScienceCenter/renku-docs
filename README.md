@@ -1,3 +1,5 @@
+** Deprecated - see the `docs` in the main `renku` repository. ** 
+
 # Renku Project Documentation
 
 This repository contains the base documentation of the Renku Project and
